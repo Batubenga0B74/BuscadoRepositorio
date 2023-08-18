@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "inter", sans-serif;
+  color: #fff;
+}
+body{
+  background-color: #121214;
+  padding: 2rem;
+}
+p{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
